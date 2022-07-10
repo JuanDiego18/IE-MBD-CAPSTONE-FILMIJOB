@@ -11,3 +11,10 @@ In the current  fast-paced and globalized world, it is vital that each company c
  6. Hiring the candidate which fits best for the position. 
 
 Creating an effective recruitment environment can help companies save costs and choose the right talent for each job position. According to GMP Recruitment, almost 74% of employers admit to hiring the wrong person for a position. The statistics show how it is becoming a collective issue, which the majority of employers experience and as a consequence suffer a financial loss. Therefore, it is imperative to identify the inefficiencies and find the right solution.  Some of the most common inefficiencies within the hiring process include: poor planning, communication and clarity, delays, and utilization of incorrect technology. The last factor, similarly as the other inefficiencies, can have heavy negative consequences and impact the recruitment (McConnell, 2022). Therefore, it is vital that each software interviewing method type helps the process  to increase the efficiency and ultimately its accuracy.  
+
+## Running the code
+
+Apart from the word embeddings model, all the files and libraries are in the repository. For downloading the Word2Vec from Google, follow this link:
+
+
+``` # https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?resourcekey=0-wjGZdNAUop6WykTtMip30g ```
