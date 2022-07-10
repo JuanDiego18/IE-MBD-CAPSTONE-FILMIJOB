@@ -1,27 +1,13 @@
 # IE-MBD-CAPSTONE-FILMIJOB
 Final Project for the Master in Big Data and Business Analytics from IE Business School / Interview questions scoring for Filmijob
 
+In the current  fast-paced and globalized world, it is vital that each company chooses the right hiring process and ensures that it follows it in an efficient manner. On average, the hiring activity lasts around 43 days from the first step to the last (McConnell, 2022). The recruitment process  consists of the following six phases: 
 
-Approach for solving the problem:
+ 1. Identifying the need for a new employee.
+ 2. Publishing the job description. 
+ 3. Receiving applicants’ resumes.
+ 4. Evaluating all the received resumes.
+ 5. Conducting interviews with appropriate candidates.
+ 6. Hiring the candidate which fits best for the position. 
 
-1. Classify the keywords according to the job roles.
-
-    1.1 The "manual" way: Manually check for the ocurrence of keywords on the job description.
-
-        1.1.1 Using joins to look for words in the job description
-   
-        1.1.2 Information Retrieval Algorithm?
-
-    1.2 Make a model or apply some kind of method around the keywords (embedding?) to broad the scope of the classification (For instance, if the word R appears
-on the job description, and we have python as a keyword, as both words are similar or relate to each other, we count an appearance on python) 
-
-2. Score the question accordingly to the number of appearances of the keywords (A question with 5 keywords appearances will have a better score versus one that
-has 2 keywords appearances). In this step we also use the embbeding aproach to score the question (If tableau appears on the question, PowerBI keyword should 
-give the question more weight.
-
-    2.1 Scoring method 1: Page Rank Alrithm????
- 
-    2.2 Scoring method 2: Manual scoring method
- 
-3. Adding specific questions according to the keywords related to the job??????
-
+Creating an effective recruitment environment can help companies save costs and choose the right talent for each job position. According to GMP Recruitment, almost 74% of employers admit to hiring the wrong person for a position. The statistics show how it is becoming a collective issue, which the majority of employers experience and as a consequence suffer a financial loss. Therefore, it is imperative to identify the inefficiencies and find the right solution.  Some of the most common inefficiencies within the hiring process include: poor planning, communication and clarity, delays, and utilization of incorrect technology. The last factor, similarly as the other inefficiencies, can have heavy negative consequences and impact the recruitment (McConnell, 2022). Therefore, it is vital that each software interviewing method type helps the process  to increase the efficiency and ultimately its accuracy.  
